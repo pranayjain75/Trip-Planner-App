@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trip Planner</string>
+    <string name="server_client_id">393299856273-nhe7bgthpkpvct6paq8bk7f6dla2a292.apps.googleusercontent.com</string>
+    <string name="google_api">AIzaSyCjQlEN9SKDCtC30zy7grp-lyhPjEv792Q</string>
+    <string name="logout">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
